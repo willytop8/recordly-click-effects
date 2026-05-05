@@ -2,11 +2,7 @@
 
 Three visual effects for recorded clicks: ripple, pulse, and burst.
 
-## Screenshots
-
-![Ripple effect](./assets/screenshot-ripple.png)
-![Pulse effect](./assets/screenshot-pulse.png)
-![Burst effect](./assets/screenshot-burst.png)
+![Icon](https://raw.githubusercontent.com/willytop8/recordly-click-effects/main/assets/icon.png)
 
 ## Install
 

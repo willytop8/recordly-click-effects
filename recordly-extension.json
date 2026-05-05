@@ -1,10 +1,10 @@
 {
-  "id": "williamjvest.click-effects",
+  "id": "willytop8.click-effects",
   "name": "Click Effects",
   "version": "1.0.0",
   "description": "Three visual effects for recorded clicks: ripple, pulse, and burst.",
   "author": "William Vest",
-  "homepage": "https://github.com/williamjvest/recordly-click-effects",
+  "homepage": "https://github.com/willytop8/recordly-click-effects",
   "license": "AGPL-3.0",
   "engine": "1.2.0",
   "main": "index.js",

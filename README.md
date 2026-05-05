@@ -21,7 +21,7 @@ Three visual effects for recorded clicks: ripple, pulse, and burst.
 1. Open Recordly, go to **Extensions → Open Directory** to find your extensions folder.
 2. Clone this repo into that directory:
    ```
-   git clone https://github.com/williamjvest/recordly-click-effects.git
+   git clone https://github.com/willytop8/recordly-click-effects.git
    ```
 3. Restart Recordly. **Click Effects** should appear as active in the Extensions panel.
 
@@ -56,7 +56,7 @@ When **Distinct right-click style** is on, right-clicks render with dashed lines
 Clone and symlink into Recordly for local testing:
 
 ```bash
-git clone https://github.com/williamjvest/recordly-click-effects.git
+git clone https://github.com/willytop8/recordly-click-effects.git
 cd Recordly
 # Find your extensions directory via Extensions → Open Directory
 ln -s /path/to/recordly-click-effects /path/to/recordly-extensions/recordly-click-effects
